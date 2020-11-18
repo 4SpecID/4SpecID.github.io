@@ -4,9 +4,9 @@
 
 # What is 4SpecID?
 
-<p align="justify"> **4SpecID** is a C++ based cross-platform program to audit and annotate reference DNA libraries. 
+<p align="justify"><b>4SpecID</b> is a C++ based cross-platform program to audit and annotate reference DNA libraries. 
 It is oriented to ensure the golden standards for forensic applications.</p>
-<p align="justify"> **4SpecID** core translates records in a reference DNA library into weighted undirected graphs where nodes represent species and clustering groups and edges represent records in the database. The isolated subgraphs are then used to evaluate congruence between taxonomic data and genetic clustering and guide the user to identify and fix or remove erroneous data records.
+<p align="justify"><b>4SpecID</b> core translates records in a reference DNA library into weighted undirected graphs where nodes represent species and clustering groups and edges represent records in the database. The isolated subgraphs are then used to evaluate congruence between taxonomic data and genetic clustering and guide the user to identify and fix or remove erroneous data records.
 </p>
 
 # Getting started with 4SpecID
@@ -20,7 +20,7 @@ It is oriented to ensure the golden standards for forensic applications.</p>
 [Quick Start 4SpecID](https://https://github.com/4SpecID/4SpecID/Tutorial/README.md){: .btn}
 
 # Citing 4SpecID
-<p align="justify">The 4SpecID role is currently under review. Visit us again later for more updates.</p>
+<p align="justify">The <b>4SpecID</b> role is currently under review. Visit us again later for more updates.</p>
 <!--- 
 4SpecID is descended from earlier work:
 Conde-Sousa, E., Pinto, N., Amorim, A. Reference DNA databases for forensic species identification: Auditing algorithms (2019) Forensic Science International: Genetics Supplement Series, 7 (1), pp. 564-566. DOI: 10.1016/j.fsigss.2019.10.091
