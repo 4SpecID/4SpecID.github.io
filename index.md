@@ -19,7 +19,7 @@ It is oriented to ensure the golden standards for forensic applications.</p>
 [Source code](https://https://github.com/4SpecID/4SpecID/src)<!---{: .btn}--->
 
 ## Tutorials
-[Quick Start 4SpecID](https://https://github.com/4SpecID/4SpecID/Tutorial/README.md){: .btn}
+[Quick Start 4SpecID](https://https://github.com/4SpecID/4SpecID/Tutorial/README.md)<!---{: .btn}--->
 
 # Citing 4SpecID
 <p align="justify">The <b>4SpecID</b> role is currently under review. Visit us again later for more updates.</p>
