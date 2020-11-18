@@ -2,7 +2,7 @@
 [Sample Images](https://econdesousa.github.io/assets/images/images){: .btn}
 [Quick Start](https://https://github.com/4SpecID/4SpecID/assets/pdfs/README.md){: .btn}
 
-# What is 4SpecID?
+# 4SpecID?
 
 <p align="justify"><b>4SpecID</b> is a C++ based cross-platform program to audit and annotate reference DNA libraries. 
 It is oriented to ensure the golden standards for forensic applications.</p>
