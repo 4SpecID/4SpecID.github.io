@@ -6,4 +6,9 @@ theme: jekyll-theme-minimal
 github:
   repository_url: https://github.com/4SpecID/
   
+layout: splash
+classes:
+  - landing
+  - dark-theme
+---
  
