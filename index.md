@@ -18,14 +18,17 @@ It is oriented to ensure the golden standards for forensic applications.</p>
 
 # Citing 4SpecID
 <p align="justify">The 4SpecID role is currently under review. Visit us again later for more updates.</p>
+<!--- 
+4SpecID is descended from earlier work:
+Conde-Sousa, E., Pinto, N., Amorim, A. Reference DNA databases for forensic species identification: Auditing algorithms (2019) Forensic Science International: Genetics Supplement Series, 7 (1), pp. 564-566. DOI: 10.1016/j.fsigss.2019.10.091
+--->
+
 
 <!--- 
 # Developing team
 to be added
 --->
 
-## 4SpecID is descended from earlier work:
-Conde-Sousa, E., Pinto, N., Amorim, A. Reference DNA databases for forensic species identification: Auditing algorithms (2019) Forensic Science International: Genetics Supplement Series, 7 (1), pp. 564-566. DOI: 10.1016/j.fsigss.2019.10.091
 
 
 
