@@ -7,11 +7,13 @@ It is oriented to ensure the golden standards for forensic applications.</p>
 </p>
 
 # Getting started with 4SpecID
+
+## binary files
 [Windows 10 installer](https://www.dropbox.com/transfer/AAAAAIKFs4JK0vsVV2bAtF4wD6Nn0NbyegsbAbFNXj5lQDTt-Pp5jTQ){: .btn}
-[MasOS](https://https://github.com/4SpecID/4SpecID/release1){: .btn}
+[MasOS installer](https://https://github.com/4SpecID/4SpecID/release1){: .btn}
 [Source code](https://https://github.com/4SpecID/4SpecID/src){: .btn}
 
-# Tutorials
+## Tutorials
 [Quick Start 4SpecID](https://https://github.com/4SpecID/4SpecID/Tutorial/README.md){: .btn}
 
 # Citing 4SpecID
