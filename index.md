@@ -1,3 +1,6 @@
+[Home](https://4specid.github.io){: .btn}
+[Sample Images](https://econdesousa.github.io/SampleIamges){: .btn}
+[Quick Start](https://https://github.com/4SpecID/4SpecID/Tutorial/README.md){: .btn}
 
 # What is 4SpecID?
 
@@ -32,8 +35,8 @@ to be added
 
 
 
-<p align="justify"></p>
-<p align="justify"></p>
-<p align="justify"></p>
-<p align="justify">Webpage Under Development</p>
+# Webpage Under Development
 
+[Home](https://4specid.github.io){: .btn}
+[Sample Images](https://econdesousa.github.io/SampleIamges){: .btn}
+[Quick Start](https://https://github.com/4SpecID/4SpecID/Tutorial/README.md){: .btn}
