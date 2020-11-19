@@ -18,8 +18,27 @@
 
 <center>
 	<figure>
+		<img src="\assets\4SpecID_mainWindow_labeled.png">
+		<figcaption>4SpecID main Window</figcaption>
+	</figure>
+</center>
+
+<table style="width:100%">
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+	<td width="40%"></td>
+	<td width="60%"></td>
+  </tr>
+  
+</table>
+
+<center>
+	<figure>
 		<img src="\assets\LoadingReport.png">
-		<figcaption>Loading Report Example</a>!</figcaption>
+		<figcaption>Loading Report Example</figcaption>
 	</figure>
 </center>
 
@@ -38,47 +57,10 @@
 <center>
 	<figure>
 		<img src="\assets\Pantera tigris.png">
-		<figcaption>Patera tigris</a>!</figcaption>
+		<figcaption>Patera tigris isolated subgraph</figcaption>
 	</figure>
 </center>
 
-<table style="width:100%">
-  <tr>
-    <th></th>
-    <th></th>
-  </tr>
-  <tr>
-	<td width="40%"></td>
-	<td width="60%"></td>
-  </tr>
-  
-</table>
-
-<center>
-	<figure>
-		<img src="\assets\4SpecID_Workflow.png">
-		<figcaption>4SpecID workflow</a>!</figcaption>
-	</figure>
-</center>
-
-<table style="width:100%">
-  <tr>
-    <th></th>
-    <th></th>
-  </tr>
-  <tr>
-	<td width="40%"></td>
-	<td width="60%"></td>
-  </tr>
-  
-</table>
-
-<center>
-	<figure>
-		<img src="\assets\4SpecID_mainWindow_labeled.png">
-		<figcaption>4SpecID workflow</a>!</figcaption>
-	</figure>
-</center>
 
 
 <table style="width:100%">
@@ -96,13 +78,30 @@
 <center>
 	<figure>
 		<img src="\assets\fig4.png">
-		<figcaption>Bovidae Subgraphs</a>!</figcaption>
+		<figcaption>Bovidae isolated subgraph examples</figcaption>
 	</figure>
 </center>
 
 
 
+<table style="width:100%">
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+	<td width="40%"></td>
+	<td width="60%"></td>
+  </tr>
+  
+</table>
 
+<center>
+	<figure>
+		<img src="\assets\4SpecID_Workflow.png">
+		<figcaption>4SpecID workflow</figcaption>
+	</figure>
+</center>
 
 
 
