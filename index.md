@@ -2,6 +2,14 @@
 [Sample Images](https://econdesousa.github.io/images){: .btn}
 [Quick Start](https://econdesousa.github.io/tutorial){: .btn}
 
+
+[Home](https://econdesousa.github.io){: .btn}
+[Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
+[Publications](https://econdesousa.github.io/Publications){: .btn}
+[Supervisions](https://econdesousa.github.io/Supervision){: .btn}
+[External Links](https://econdesousa.github.io/Links){: .btn}
+[Contacts](https://econdesousa.github.io/Contacts){: .btn}
+
 # 4SpecID
 
 <p align="justify"><b>4SpecID</b> is a C++ based cross-platform program to audit and annotate reference DNA libraries. 
