@@ -1,4 +1,4 @@
 
 # Sample Images
-<img src="\images\emoticons\A - Cephalophus dorsalis.png">
-<img src="\images\emoticons\Fig4.png">
+<img src="\assets\emoticons\A - Cephalophus dorsalis.png">
+<img src="\assets\emoticons\Fig4.png">
