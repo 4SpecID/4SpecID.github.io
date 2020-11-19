@@ -24,14 +24,6 @@
 
 
 
-
-
-
-
-
-
-
-
 [Home](https://4specid.github.io){: .btn}
 [Sample Images](https://4specid.github.io/images){: .btn}
 [Quick Start](https://4specid.github.io/tutorial){: .btn}
