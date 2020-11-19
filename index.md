@@ -1,6 +1,6 @@
 [Home](https://4specid.github.io){: .btn}
-[Sample Images](https://econdesousa.github.io/assets/images/images){: .btn}
-[Quick Start](https://https://github.com/4SpecID/4SpecID/assets/pdfs/tutorial.md){: .btn}
+[Sample Images](https://econdesousa.github.io/images){: .btn}
+[Quick Start](https://https://github.com/4SpecID/4SpecID/tutorial){: .btn}
 
 # 4SpecID
 
