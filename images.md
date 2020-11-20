@@ -19,8 +19,8 @@
 <figure>
 	<center>
 		<img src="\assets\Images\4SpecID_mainWindow_labeled.png">
-		<figcaption>4SpecID User Interface. (A) Navigation Bar; (B) Statistical Results; (C) Action Buttons; (D) Graph Visualizer; (E) Record Editor; (F) Status Viewer.</figcaption>
 	</center>
+	<figcaption>4SpecID User Interface. (A) Navigation Bar; (B) Statistical Results; (C) Action Buttons; (D) Graph Visualizer; (E) Record Editor; (F) Status Viewer.</figcaption>
 </figure>
 
 
@@ -65,8 +65,8 @@
 <figure>
 	<center>
 		<img src="\assets\Images\LoadingReport.png">
-		<figcaption>Loading Report Example</figcaption>
 	</center>
+	<figcaption>Loading Report Example</figcaption>
 </figure>
 
 <table style="width:100%">
@@ -85,8 +85,8 @@
 <figure>
 	<center>
 		<img src="\assets\Images\Pantera tigris.png">
-		<figcaption>Isolated graph of species P. pardus, P. leo, P.onca and P. tigris</figcaption>
 	</center>
+	<figcaption>Isolated graph of species P. pardus, P. leo, P.onca and P. tigris</figcaption>
 </figure>
 
 
@@ -105,8 +105,10 @@
 </table>
 
 <figure>
-	<img src="\assets\Images\fig4.png">
-	<figcaption>Bovidae isolated subgraph examples</figcaption>
+	<center>
+		<img src="\assets\Images\fig4.png">
+	</center>
+<figcaption>Bovidae isolated subgraph examples</figcaption>
 </figure>
 
 
@@ -125,7 +127,9 @@
 
 
 <figure>
-	<img src="\assets\Images\4SpecID_Workflow.png">
+	<center>
+		<img src="\assets\Images\4SpecID_Workflow.png">
+	</center>
 	<figcaption>4SpecID pipeline</figcaption>
 </figure>
 
