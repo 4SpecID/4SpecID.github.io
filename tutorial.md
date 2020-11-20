@@ -22,7 +22,7 @@
 	</figure>
 <br/><br/>
 
-1. Load / delete existing projects
+2. Load / delete existing projects
 	* Got to:
 		* Project > Load Project
 		* Project > Delete Project	
@@ -39,7 +39,7 @@
 
 <br/><br/>
 
-2. Setting parameters and visualizing isolated subgraphs
+3. Setting parameters and visualizing isolated subgraphs
 	* Open or create a new project (see previous steps)
 	* Define user parameters:
 		* Data > Grading
