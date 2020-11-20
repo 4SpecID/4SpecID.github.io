@@ -37,8 +37,6 @@
 		</div>
 	</figure>
 
-<br/><br/>
-
 3. Setting parameters and visualizing isolated subgraphs
 	* Open or create a new project (see previous steps)
 	* Define user parameters:
@@ -61,23 +59,27 @@
 
 <table style="width:100%">
   <tr>
-    <th>Create a new project</th>
-    <th>Load / delete existing projects</th>
+    <th>1. Create a new project</th>
+    <th>2. Load / delete existing projects</th>
   </tr>
   <tr>
 	<td width="50%">
-	* Got to:
-		* Project > New Project
-	* Choose a name
-	* press OK
-	* Select the *.tsv file with the dataset
+		<ul>
+		  <li>Got to:</li>
+			<ul><li>Project > New Project</li></ul>	
+		  <li>Choose a name</li>
+		  <li>press OK</li>
+		  <li>Select the *.tsv file with the dataset</li>
+		</ul>
 	</td>
 	<td width="50%">
-	* Got to:
-		* Project > Load Project
-		* Project > Delete Project	
-	* Choose a name
-	* press OK
+		<ul>
+		  <li>Got to:</li>
+			<ul><li>Project > Load Project</li></ul>	
+			<ul><li>Project > Delete Project</li></ul>	
+		  <li>Choose a name</li>
+		  <li>press Load / Delete</li>
+		</ul>	
 	</td>
   </tr>
   <tr>
