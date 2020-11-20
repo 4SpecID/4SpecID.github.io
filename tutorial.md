@@ -39,7 +39,7 @@
 
 <br/><br/>
 
-1. Setting parameters and visualizing isolated subgraphs
+2. Setting parameters and visualizing isolated subgraphs
 	* Open or create a new project (see previous steps)
 	* Define user parameters:
 		* Data > Grading
@@ -60,6 +60,51 @@
 	</figure>
 <br/><br/>
 
+
+
+<table style="width:100%">
+  <tr>
+    <th>Create a new project</th>
+    <th>Load / delete existing projects</th>
+  </tr>
+  <tr>
+	<td width="50%">
+	* Got to:
+		* Project > New Project
+	* Choose a name
+	* press OK
+	* Select the *.tsv file with the dataset
+	</td>
+	<td width="50%">
+	* Got to:
+		* Project > Load Project
+		* Project > Delete Project	
+	* Choose a name
+	* press OK
+	</td>
+  </tr>
+  <tr>
+	  <td width="50%">
+		  <figure class="large">
+			<div class="myvideo">
+			   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+				   <source src="{{ site.baseurl }}\assets\videos\CreateProject.mp4" type="video/mp4" />
+			   </video>
+			</div>
+		</figure>
+	  </td>
+	  <td width="50%">
+		  <figure class="large">
+			<div class="myvideo">
+			   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+				   <source src="{{ site.baseurl }}\assets\videos\SubGraphVisualization.mp4" type="video/mp4" />
+			   </video>
+			</div>
+		</figure>
+	  </td>
+  </tr>
+  
+</table>
 
 [Home](https://4specid.github.io){: .btn}
 [Sample Images](https://4specid.github.io/images){: .btn}
