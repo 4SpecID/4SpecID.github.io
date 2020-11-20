@@ -13,14 +13,34 @@
 	* press OK
 	* Select the *.tsv file with the dataset
 
-<figure class="large">
-	<div class="myvideo">
-	   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-		   <source src="{{ site.baseurl }}\assets\images\CreateProject.mp4" type="video/mp4" />
-	   </video>
-	</div>
-<figcaption>Create a new project</figcaption>
-</figure>
+	<figure class="large">
+		<div class="myvideo">
+		   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+			   <source src="{{ site.baseurl }}\assets\images\CreateProject.mp4" type="video/mp4" />
+		   </video>
+		</div>
+	<figcaption>Create a new project</figcaption>
+	</figure>
+
+
+1. Load / delete existing projects
+	* Got to:
+		* Project > New Project
+	* Choose a name
+	* press OK
+	* Select the *.tsv file with the dataset
+
+	<figure class="large">
+		<div class="myvideo">
+		   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+			   <source src="{{ site.baseurl }}\assets\images\CreateProject.mp4" type="video/mp4" />
+		   </video>
+		</div>
+	<figcaption>Delete an old project. Load A previously saved project</figcaption>
+	</figure>
+
+
+
 
 
 [Home](https://4specid.github.io){: .btn}
