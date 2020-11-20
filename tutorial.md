@@ -19,9 +19,8 @@
 			   <source src="{{ site.baseurl }}\assets\videos\CreateProject.mp4" type="video/mp4" />
 		   </video>
 		</div>
-	<p align="justify"><figcaption>Create a new project</figcaption></p>
 	</figure>
-
+<br/><br/>
 
 1. Load / delete existing projects
 	* Got to:
@@ -36,10 +35,9 @@
 			   <source src="{{ site.baseurl }}\assets\videos\CreateProject.mp4" type="video/mp4" />
 		   </video>
 		</div>
-	<p align="justify"><figcaption>Delete an old project. Load A previously saved project</figcaption></p>
 	</figure>
 
-
+<br/><br/>
 
 1. Setting parameters and visualizing isolated subgraphs
 	* Open or create a new project (see previous steps)
@@ -59,9 +57,8 @@
 			   <source src="{{ site.baseurl }}\assets\videos\SubGraphVisualization.mp4" type="video/mp4" />
 		   </video>
 		</div>
-	<p align="justify"><figcaption>Delete an old project. Load A previously saved project</figcaption></p>
 	</figure>
-
+<br/><br/>
 
 
 [Home](https://4specid.github.io){: .btn}
