@@ -129,12 +129,14 @@
 </center>
 
 
-<div class="myvideo">
-   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
-       <source src="{{ site.baseurl }}\assets\tmp.mp4" type="video/mp4" />
-   </video>
-</div>
-
+<figure class="large">
+	<div class="myvideo">
+	   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+		   <source src="{{ site.baseurl }}\assets\tmp.mp4" type="video/mp4" />
+	   </video>
+	</div>
+<figcaption>tmp video</figcaption>
+</figure>
 
 [Home](https://4specid.github.io){: .btn}
 [Sample Images](https://4specid.github.io/images){: .btn}
