@@ -47,9 +47,6 @@
 		* press OK
 	* press Grade 
 	* use the Record Editor to select the taxa or cluster to visualize; alternatively use the search bar on the top of the Graph Visualizer;
-	
-	
-	* Select the *.tsv file with the dataset
 
 	<figure class="large">
 		<div class="myvideo">
