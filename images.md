@@ -100,12 +100,10 @@
   
 </table>
 
-<center>
-	<figure>
-		<img src="\assets\fig4.png">
-		<figcaption>Bovidae isolated subgraph examples</figcaption>
-	</figure>
-</center>
+<figure>
+	<img src="\assets\fig4.png">
+	<figcaption>Bovidae isolated subgraph examples</figcaption>
+</figure>
 
 
 
@@ -121,12 +119,12 @@
   
 </table>
 
-<center>
-	<figure>
-		<img src="\assets\4SpecID_Workflow.png">
-		<figcaption>4SpecID pipeline</figcaption>
-	</figure>
-</center>
+
+<figure>
+	<img src="\assets\4SpecID_Workflow.png">
+	<figcaption>4SpecID pipeline</figcaption>
+</figure>
+
 
 
 <figure class="large">
