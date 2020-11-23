@@ -57,6 +57,25 @@
 		   </video>
 		</div>
 	</figure>
+
+4. Working with local datasets
+	* Open or create a new project (see previous steps)
+	* If there is no distance matrix then a "Grading Error Report" will pop-up
+	* Upload the Distance Matrix
+		* Data > Distance Matrix
+		* Choose the file
+		* press Open
+	* press Grade 
+
+	<figure class="large">
+		<div class="myvideo">
+		   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+			   <source src="{{ site.baseurl }}\assets\videos\localDataset.mp4" type="video/mp4" />
+		   </video>
+		</div>
+	</figure>
+<br/><br/>
+
 <br/><br/>
 
 
