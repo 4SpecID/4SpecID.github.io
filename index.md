@@ -1,6 +1,7 @@
 [Home](https://4specid.github.io){: .btn}
 [Sample Images](https://4specid.github.io/images){: .btn}
 [Quick Start](https://4specid.github.io/tutorial){: .btn}
+[Contacts](https://4specid.github.io/Contacts){: .btn}
 
 
 # 4SpecID
@@ -13,9 +14,8 @@ It is oriented to ensure the golden standards for forensic applications.</p>
 # Getting started with 4SpecID
 
 ## binary files
-[Windows 10 installer](https://www.dropbox.com/transfer/AAAAAIKFs4JK0vsVV2bAtF4wD6Nn0NbyegsbAbFNXj5lQDTt-Pp5jTQ){:target="_blank" rel="noopener"}<!---{: .btn}--->
-
-[MasOS installer](https://https://github.com/4SpecID/4SpecID/release1){:target="_blank" rel="noopener"}<!---{: .btn}--->
+[Windows 10 installer](https://github.com/4SpecID/4SpecID/blob/main/Installers/4SpecID-20201123/4SpecID/4SpecID%20installer.exe?raw=true){:target="_blank" rel="noopener"}<!---{: .btn}--->
+[MasOS installer](https://github.com/4SpecID/4SpecID/blob/main/Installers/4SpecID-20201123/4SpecID/4SpecID.dmg?raw=true){:target="_blank" rel="noopener"}<!---{: .btn}--->
 
 [Source code](https://https://github.com/4SpecID/4SpecID/src){:target="_blank" rel="noopener"}<!---{: .btn}--->
 
@@ -38,8 +38,9 @@ to be added
 
 
 
-# Webpage Under Development
+<span class="biggertext"> Webpage Under Development... </span>
 
 [Home](https://4specid.github.io){: .btn}
 [Sample Images](https://4specid.github.io/images){: .btn}
 [Quick Start](https://4specid.github.io/tutorial){: .btn}
+[Contacts](https://4specid.github.io/Contacts){: .btn}

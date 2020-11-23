@@ -1,9 +1,7 @@
-[Home](https://econdesousa.github.io){: .btn}
-[Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
-[Publications](https://econdesousa.github.io/Publications){: .btn}
-[Supervisions](https://econdesousa.github.io/Supervision){: .btn}
-[External Links](https://econdesousa.github.io/Links){: .btn}
-[Contacts](https://econdesousa.github.io/Contacts){: .btn}
+[Home](https://4specid.github.io){: .btn}
+[Sample Images](https://4specid.github.io/images){: .btn}
+[Quick Start](https://4specid.github.io/tutorial){: .btn}
+[Contacts](https://4specid.github.io/Contacts){: .btn}
 
 # Contacts
 
@@ -30,9 +28,7 @@ Tel: +351 226074975
 </center>
 
 
-[Home](https://econdesousa.github.io){: .btn}
-[Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
-[Publications](https://econdesousa.github.io/Publications){: .btn}
-[Supervisions](https://econdesousa.github.io/Supervision){: .btn}
-[External Links](https://econdesousa.github.io/Links){: .btn}
-[Contacts](https://econdesousa.github.io/Contacts){: .btn}
+[Home](https://4specid.github.io){: .btn}
+[Sample Images](https://4specid.github.io/images){: .btn}
+[Quick Start](https://4specid.github.io/tutorial){: .btn}
+[Contacts](https://4specid.github.io/Contacts){: .btn}
