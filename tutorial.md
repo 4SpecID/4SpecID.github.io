@@ -10,8 +10,7 @@
 [see above](#login-optional-fields)
 
 # Video Tutorials
-<ol>
-<li>Create a new project</li>
+1. Create a new project
 	* Got to:
 		* Project > New Project
 	* Choose a name
@@ -27,7 +26,7 @@
 	</figure>
 <br/><br/>
 
-<li>Load / delete existing projects</li>
+2. Load / delete existing projects
 	* Got to:
 		* Project > Load Project
 		* Project > Delete Project	
@@ -42,7 +41,7 @@
 		</div>
 	</figure>
 
-<li> Setting parameters and visualizing isolated subgraphs id="login-optional-fields"</li>
+3. Setting parameters and visualizing isolated subgraphs
 	* Open or create a new project (see previous steps)
 	* Define user parameters:
 		* Data > Grading
