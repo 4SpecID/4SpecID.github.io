@@ -7,7 +7,39 @@
 
 1. If you want to use our scripts to download a taxonomic group from BOLD please follow this [link](https://github.com/4SpecID/4SpecID/tree/main/DataMining){:target="_blank" rel="noopener"}
 
+	
+# Menus
+* Project menu
+	* New project:
+		* Creates a new project in the application.
+	* Load project:
+		* Loads a project in the application
+	* Delete project:
+		* Deletes a project from the application
+	* Save project:
+		* Save the modifications of the current dataset in the application
+	* Save as project
+		* Save the modifications of the current dataset with a different name in the application
+	* Export project to TSV
+		* Exports the current dataset with non-deleted records to a csv or tsv file.
+	* Export full project to TSV
+		* Exports the current dataset with deleted and non-deleted records to a csv or tsv file.
+	* Export results
+		* Export the statistical results to a csv or tsv file.
+	* Export distance matrix
+		* Export the distance matrix to a csv or tsv file
 
+* Data menu
+	* Filter:
+		* Dialog that allows the user to filter/keep data through a proposition
+	* Grading:
+		* Set grading options.
+	* Distance matrix:
+		* Import a distance matrix from csv or tsv file.
+	* Dataset analysis: 
+		* This option shows four analysis, the number of records per bin and species, and the number of institutions per bin and species. It is also possible to save the analysis to tsv file format.
+
+<br/><br/>
 # Video Tutorials
 1. Create a new project
 	* Got to:
@@ -73,39 +105,7 @@
 		   </video>
 		</div>
 	</figure>
-	
-# Menus
-* Project menu
-	* New project:
-		* Creates a new project in the application.
-	* Load project:
-		* Loads a project in the application
-	* Delete project:
-		* Deletes a project from the application
-	* Save project:
-		* Save the modifications of the current dataset in the application
-	* Save as project
-		* Save the modifications of the current dataset with a different name in the application
-	* Export project to TSV
-		* Exports the current dataset with non-deleted records to a csv or tsv file.
-	* Export full project to TSV
-		* Exports the current dataset with deleted and non-deleted records to a csv or tsv file.
-	* Export results
-		* Export the statistical results to a csv or tsv file.
-	* Export distance matrix
-		* Export the distance matrix to a csv or tsv file
 
-* Data menu
-	* Filter:
-		* Dialog that allows the user to filter/keep data through a proposition
-	* Grading:
-		* Set grading options.
-	* Distance matrix:
-		* Import a distance matrix from csv or tsv file.
-	* Dataset analysis: 
-		* This option shows four analysis, the number of records per bin and species, and the number of institutions per bin and species. It is also possible to save the analysis to tsv file format.
-
-<br/><br/>
 
 <br/><br/>
 
