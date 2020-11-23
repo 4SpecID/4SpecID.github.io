@@ -9,7 +9,7 @@
 Luís Neto<sup>1</sup>; Nádia Pinto<sup>2,3,4</sup>; Alberto Proença<sup>1,5</sup>; António Amorim<sup>2,3,6</sup>; Eduardo Conde-Sousa<sup>2,7</sup>
 
 <p style="margin-left: 40px"><small>
-	<sup>1</sup> ALGORITMI
+	<sup>1</sup> ALGORITMI, University of Minho
 </small></p>
 
 <p style="margin-left: 40px">
@@ -32,7 +32,7 @@ Luís Neto<sup>1</sup>; Nádia Pinto<sup>2,3,4</sup>; Alberto Proença<sup>1,5</
 
 <p style="margin-left: 40px">
 	<small>
-		<sup>5</sup> University of Minho
+		<sup>5</sup> School of Engineering, University of Minho
 	</small>
 </p>
 
