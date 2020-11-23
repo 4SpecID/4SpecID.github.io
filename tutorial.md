@@ -7,7 +7,6 @@
 
 1. If you want to use our scripts to download a taxonomic group from BOLD please follow this [link](https://github.com/4SpecID/4SpecID/tree/main/DataMining){:target="_blank" rel="noopener"}
 
-[see above](#login-optional-fields)
 
 # Video Tutorials
 1. Create a new project
