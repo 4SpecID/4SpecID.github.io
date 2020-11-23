@@ -8,7 +8,8 @@
 1. If you want to use our scripts to download a taxonomic group from BOLD please follow this [link](https://github.com/4SpecID/4SpecID/tree/main/DataMining){:target="_blank" rel="noopener"}
 
 # Video Tutorials
-1. Create a new project
+<ol>
+<li>Create a new project</li>
 	* Got to:
 		* Project > New Project
 	* Choose a name
@@ -24,7 +25,7 @@
 	</figure>
 <br/><br/>
 
-2. Load / delete existing projects
+<li>Load / delete existing projects</li>
 	* Got to:
 		* Project > Load Project
 		* Project > Delete Project	
