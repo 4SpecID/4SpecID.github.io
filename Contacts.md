@@ -6,23 +6,23 @@
 # Contacts
 
 ## Team
-Luís Neto<sup>a</sup>; Nádia Pinto<sup>b,c,d</sup>; Alberto Proença<sup>a,e</sup>; António Amorim<sup>b,c,f</sup>; Eduardo Conde-Sousa<sup>b,g</sup>
+Luís Neto<sup>1</sup>; Nádia Pinto<sup>2,3,4</sup>; Alberto Proença<sup>1,5</sup>; António Amorim<sup>2,3,6</sup>; Eduardo Conde-Sousa<sup>2,7</sup>
 
-<sup>a</sup>
+<p style="margin-left: 40px"><small>
+<sup>1</sup> ALGORITMI
 
-<sup>b</sup> Instituto de Investigação e Inovação em Saúde (i3S), Universidade do Porto, Portugal
+<sup>2</sup> Instituto de Investigação e Inovação em Saúde (i3S), Universidade do Porto, Portugal
 
-<sup>c</sup> Institute of Pathology and Molecular Immunology from University of Porto (IPATIMUP), Portugal
+<sup>3</sup> Institute of Pathology and Molecular Immunology from University of Porto (IPATIMUP), Portugal
 
-<sup>d</sup> Center of Mathematics of the University of Porto, Portugal 
+<sup>4</sup> Center of Mathematics of the University of Porto, Portugal 
 
-<sup>e</sup> 
+<sup>5</sup> University of Minho
 
-<sup>f</sup> Faculty of Sciences of University of Porto, Porto, Portugal
+<sup>6</sup> Faculty of Sciences of University of Porto, Porto, Portugal
 
-<sup>g</sup> Instituto de Engenharia Biomedica (INEB), Universidade do Porto, Portugal
-
- 
+<sup>7</sup> Instituto de Engenharia Biomedica (INEB), Universidade do Porto, Portugal
+</small></p>
 
 ## Email
 for any questions please contact us by email to:
