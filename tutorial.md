@@ -107,6 +107,49 @@
   
 </table>
 
+
+<table style="width:100%">
+  <tr>
+    <th>3. Create a new project</th>
+    <th>4. </th>
+  </tr>
+  <tr>
+	<td width="50%">
+		<ul>
+			<li>Open or create a new project (see previous steps)</li>
+			<li>Define user parameters:</li>
+			<ul>
+				<li>Data > Grading</li>
+				<li>Choose the desired parameters</li>
+				<li>Press OK</li>
+			</ul>
+			<li>Press Grade</li>
+			<li>Use the Record Editor to select the taxa or cluster to visualize; alternatively use the search bar on the top of the Graph Visualizer</li>
+		</ul>
+	</td>
+	<td width="50%">	
+	</td>
+  </tr>
+	<!--- Define new table here --->
+  <tr>
+	<td width="50%">
+		<figure class="large">
+			<div class="myvideo">
+				<video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+					<source src="{{ site.baseurl }}\assets\videos\SubGraphVisualization.mp4" type="video/mp4" />
+				</video>
+			</div>
+		</figure>
+	  </td>
+	  <td width="50%">
+		<figure class="large">
+				<!--- Enter video here --->
+		</figure>
+	  </td>
+  </tr>
+</table>
+
+
 [Home](https://4specid.github.io){: .btn}
 [Sample Images](https://4specid.github.io/images){: .btn}
 [Quick Start](https://4specid.github.io/tutorial){: .btn}
