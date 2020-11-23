@@ -8,9 +8,9 @@ github:
   repository_url: https://github.com/econdesousa/
   
 
-#sidebar:
-#  title: "4SpecID"
-#  image: "https://4SpecID.github.io/assets/Images/main_icon.png"
-#  image_alt: "4SpecID logo"
-#  text: home <a href="https://4SpecID.github.io">here</a>!
+sidebar:
+  title: "4SpecID"
+  image: "https://4SpecID.github.io/assets/Images/main_icon.png"
+  image_alt: "4SpecID logo"
+  text: home <a href="https://4SpecID.github.io">here</a>!
   
