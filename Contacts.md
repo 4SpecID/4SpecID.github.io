@@ -6,29 +6,29 @@
 # Contacts
 
 ## Team
-Luís Neto; Nádia Pinto; Alberto Proença; António Amorim; Eduardo Conde-Sousa
+Luís Neto<sup>a</sup>; Nádia Pinto<sup>b,c,d</sup>; Alberto Proença<sup>a,e</sup>; António Amorim<sup>b,c,f</sup>; Eduardo Conde-Sousa<sup>b,g</sup>
 
+<sup>a</sup>
+
+<sup>b</sup> Instituto de Investigação e Inovação em Saúde (i3S), Universidade do Porto, Portugal
+
+<sup>c</sup> Institute of Pathology and Molecular Immunology from University of Porto (IPATIMUP), Portugal
+
+<sup>d</sup> Center of Mathematics of the University of Porto, Portugal 
+
+<sup>e</sup> 
+
+<sup>f</sup> Faculty of Sciences of University of Porto, Porto, Portugal
+
+<sup>g</sup> Instituto de Engenharia Biomedica (INEB), Universidade do Porto, Portugal
+
+ 
+
+## Email
 for any questions please contact us by email to:
 
 <a href="mailto:4specid@gmail.com">4specid@gmail.com</a>, or <a href="mailto:econdesousa@gmail.com">econdesousa@gmail.com</a>
 
-<br/><br/>
-
-### Address:
-
-Eduardo Conde-Sousa
-
-INEB/i3S, Rua Alfredo Allen, 208
-
-4200-135 Porto, Portugal
-
-Tel: +351 226074975
-
-
-
-<center>
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3003.1154576514646!2d-8.605297284580788!3d41.1756488792842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2464463903e3e9%3A0xd381720978183577!2zaTNTIC0gSW5zdGl0dXRvIGRlIEludmVzdGlnYcOnw6NvIGUgSW5vdmHDp8OjbyBlbSBTYcO6ZGU!5e0!3m2!1spt-PT!2spt!4v1575327327746!5m2!1spt-PT!2spt" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-</center>
 
 
 [Home](https://4specid.github.io){: .btn}
