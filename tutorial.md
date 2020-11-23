@@ -1,6 +1,6 @@
 [Home](https://4specid.github.io){: .btn}
-[Sample Images](https://4specid.github.io/images){: .btn}
 [Quick Start](https://4specid.github.io/tutorial){: .btn}
+[Sample Images](https://4specid.github.io/images){: .btn}
 [Contacts](https://4specid.github.io/Contacts){: .btn}
 
 # 4SpecID quick guide
@@ -59,6 +59,11 @@
 
 
 
+[Home](https://4specid.github.io){: .btn}
+[Quick Start](https://4specid.github.io/tutorial){: .btn}
+[Sample Images](https://4specid.github.io/images){: .btn}
+[Contacts](https://4specid.github.io/Contacts){: .btn}
+<!---
 <table style="width:100%">
   <tr>
     <th>1. Create a new project</th>
@@ -106,8 +111,10 @@
   </tr>
   
 </table>
+--->
 
 
+<!---
 <table style="width:100%">
   <tr>
     <th>3. Create a new project</th>
@@ -130,7 +137,6 @@
 	<td width="50%">	
 	</td>
   </tr>
-	<!--- Define new table here --->
   <tr>
 	<td width="50%">
 		<figure class="large">
@@ -143,14 +149,10 @@
 	  </td>
 	  <td width="50%">
 		<figure class="large">
-				<!--- Enter video here --->
+
 		</figure>
 	  </td>
   </tr>
 </table>
-
-
-[Home](https://4specid.github.io){: .btn}
-[Sample Images](https://4specid.github.io/images){: .btn}
-[Quick Start](https://4specid.github.io/tutorial){: .btn}
-[Contacts](https://4specid.github.io/Contacts){: .btn}
+	
+--->
