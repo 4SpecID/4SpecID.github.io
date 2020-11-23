@@ -7,6 +7,8 @@
 
 1. If you want to use our scripts to download a taxonomic group from BOLD please follow this [link](https://github.com/4SpecID/4SpecID/tree/main/DataMining){:target="_blank" rel="noopener"}
 
+[see above](#login-optional-fields)
+
 # Video Tutorials
 <ol>
 <li>Create a new project</li>
@@ -40,7 +42,7 @@
 		</div>
 	</figure>
 
-3. Setting parameters and visualizing isolated subgraphs
+<li> Setting parameters and visualizing isolated subgraphs id="login-optional-fields"</li>
 	* Open or create a new project (see previous steps)
 	* Define user parameters:
 		* Data > Grading
