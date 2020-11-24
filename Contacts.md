@@ -51,6 +51,26 @@ Luís Neto<sup>1</sup>; Nádia Pinto<sup>2,3,4</sup>; Alberto Proença<sup>1,5</
 ## Email
 for any questions please contact us by email to:
 
+<!---
+<table style="width:100%">
+  <tr>
+    <th>For general questions</th>
+    <th>For code specific issues</th>
+  </tr>
+  <tr>
+	<td width="50%">
+		<a href="mailto:4specid@gmail.com">4specid@gmail.com</a>
+		
+		<a href="mailto:econdesousa@gmail.com">econdesousa@gmail.com</a>
+	</td>
+	<td width="50%">
+		
+	</td>
+  </tr>
+  
+</table>
+--->
+
 <a href="mailto:4specid@gmail.com">4specid@gmail.com</a>, or <a href="mailto:econdesousa@gmail.com">econdesousa@gmail.com</a>
 
 <br/><br/>
