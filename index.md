@@ -31,15 +31,6 @@ Conde-Sousa, E., Pinto, N., Amorim, A. Reference DNA databases for forensic spec
 --->
 
 
-<!--- 
-# Developing team
-to be added
---->
-
-
-
-
-<span class="biggertext"> Webpage Under Development... </span>
 
 [Home](https://4specid.github.io){: .btn}
 [Quick Start](https://4specid.github.io/tutorial){: .btn}
