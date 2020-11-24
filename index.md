@@ -18,7 +18,7 @@ It is oriented to ensure the golden standards for forensic applications.</p>
 
 [MasOS installer](https://github.com/4SpecID/4SpecID/blob/main/Installers/4SpecID-20201123/4SpecID/4SpecID.dmg?raw=true){:target="_blank" rel="noopener"}<!---{: .btn}--->
 
-[Source code](https://github.com/4SpecID/4SpecID/src){:target="_blank" rel="noopener"}<!---{: .btn}--->
+[Source code](https://github.com/4SpecID/4SpecID/tree/main/src){:target="_blank" rel="noopener"}<!---{: .btn}--->
 
 ## Tutorials
 [Quick Start 4SpecID](https://4specid.github.io/tutorial)<!---{: .btn}--->
