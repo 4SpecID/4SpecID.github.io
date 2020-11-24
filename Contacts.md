@@ -61,10 +61,10 @@ for any questions please contact us by email to:
 	<td width="50%">
 		<a href="mailto:4specid@gmail.com">4specid@gmail.com</a>
 		
-		<a href="mailto:econdesousa@gmail.com">econdesousa@gmail.com</a>
+		<a href="mailto:econdesousa@gmail.com">Eduardo Conde-Sousa</a>
 	</td>
 	<td width="50%">
-		
+		<a href="mailto:lmpneto137@gmail.com">Luís Neto</a> 
 	</td>
   </tr>
   
