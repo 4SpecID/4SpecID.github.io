@@ -39,9 +39,7 @@
 * Dataset analysis: 
 	* This option shows four analysis, the number of records per bin and species, and the number of institutions per bin and species. It is also possible to save the analysis to tsv file format.
 
-# ACTION BUTTONS
-
-Action Buttons are buttons to grade all records, save graph from GRAPH VISUALIZER and undo previous steps.
+# Action Buttons
 
 * Grade
 	* Runs the grading algorithm
