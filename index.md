@@ -24,7 +24,7 @@ It is oriented to ensure the golden standards for forensic applications.</p>
 [Quick Start 4SpecID](https://4specid.github.io/tutorial)<!---{: .btn}--->
 
 # Citing 4SpecID
-<p align="justify">The <b>4SpecID</b> role is currently under review. Visit us again later for more updates.</p>
+<p align="justify">The <b>4SpecID</b> manuscript is currently under review. Visit us again later for more updates.</p>
 <!--- 
 4SpecID is descended from earlier work:
 Conde-Sousa, E., Pinto, N., Amorim, A. Reference DNA databases for forensic species identification: Auditing algorithms (2019) Forensic Science International: Genetics Supplement Series, 7 (1), pp. 564-566. DOI: 10.1016/j.fsigss.2019.10.091
