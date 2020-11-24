@@ -9,42 +9,42 @@
 Luís Neto<sup>1</sup>; Nádia Pinto<sup>2,3,4</sup>; Alberto Proença<sup>1,5</sup>; António Amorim<sup>2,3,6</sup>; Eduardo Conde-Sousa<sup>2,7</sup>
 
 <p style="margin-left: 40px"><small>
-	<sup>1</sup> ALGORITMI, University of Minho
+	<sup>1</sup> ALGORITMI, University of Minho, Campus de Gualtar, Rua da Universidade, 4710 - 057, Braga, Portugal
 </small></p>
 
 <p style="margin-left: 40px">
 	<small>
-		<sup>2</sup> Instituto de Investigação e Inovação em Saúde (i3S), Universidade do Porto, Portugal
+		<sup>2</sup> Instituto de Investigação e Inovação em Saúde (i3S), Universidade do Porto, Rua Alfredo Allen, 208, 4200-135, Porto, Portugal
 	</small>
 </p>
 
 <p style="margin-left: 40px">
 	<small>
-		<sup>3</sup> Institute of Pathology and Molecular Immunology from University of Porto (IPATIMUP), Portugal
+		<sup>3</sup> Institute of Pathology and Molecular Immunology from University of Porto (IPATIMUP), Rua Júlio Amaral de Carvalho,45, 4200-135 Porto, Portugal
 	</small>
 </p>
 
 <p style="margin-left: 40px">
 	<small>
-		<sup>4</sup> Center of Mathematics of the University of Porto, Portugal 
+		<sup>4</sup> Center of Mathematics of the University of Porto, Faculty of Sciences of University of Porto, Rua do Campo Alegre, s/n, 4169-007 Porto, Portugal 
 	</small>
 </p>
 
 <p style="margin-left: 40px">
 	<small>
-		<sup>5</sup> School of Engineering, University of Minho
+		<sup>5</sup> Department of Informatics, University of Minho, Campus de Gualtar, Rua da Universidade, 4710 - 057, Braga, Portugal
 	</small>
 </p>
 
 <p style="margin-left: 40px">
 	<small>
-		<sup>6</sup> Faculty of Sciences of University of Porto, Porto, Portugal
+		<sup>6</sup> Faculty of Sciences of University of Porto, Rua do Campo Alegre, s/n, 4169-007 Porto, Portugal
 	</small>
 </p>
 
 <p style="margin-left: 40px">
 	<small>
-		<sup>7</sup> Instituto de Engenharia Biomedica (INEB), Universidade do Porto, Portugal
+		<sup>7</sup> Instituto de Engenharia Biomedica (INEB), Universidade do Porto, Rua Alfredo Allen, 208 4200-135, Porto, Portugal
 	</small>
 </p>
 
