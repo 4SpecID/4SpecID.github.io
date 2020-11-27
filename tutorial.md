@@ -59,7 +59,7 @@
 
 	<figure class="large">
 		<div class="myvideo">
-		   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+		   <video  style="display:block; width:100%; height:auto;" controls>
 			   <source src="{{ site.baseurl }}\assets\videos\CreateProject.mp4" type="video/mp4" />
 		   </video>
 		</div>
@@ -75,7 +75,7 @@
 
 	<figure class="large">
 		<div class="myvideo">
-		   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+		   <video  style="display:block; width:100%; height:auto;" controls>
 			   <source src="{{ site.baseurl }}\assets\videos\DeleteAndLoadProject.mp4" type="video/mp4" />
 		   </video>
 		</div>
@@ -92,7 +92,7 @@
 
 	<figure class="large">
 		<div class="myvideo">
-		   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+		   <video  style="display:block; width:100%; height:auto;" controls>
 			   <source src="{{ site.baseurl }}\assets\videos\SubGraphVisualization.mp4" type="video/mp4" />
 		   </video>
 		</div>
@@ -109,7 +109,7 @@
 
 	<figure class="large">
 		<div class="myvideo">
-		   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+		   <video  style="display:block; width:100%; height:auto;" controls>
 			   <source src="{{ site.baseurl }}\assets\videos\localDataset.mp4" type="video/mp4" />
 		   </video>
 		</div>
@@ -121,7 +121,7 @@
 		* Project > Export Results
 	<figure class="large">
 		<div class="myvideo">
-		   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+		   <video  style="display:block; width:100%; height:auto;" controls>
 			   <source src="{{ site.baseurl }}\assets\videos\ExportResults.mp4" type="video/mp4" />
 		   </video>
 		</div>
@@ -134,7 +134,7 @@
 		* Project > Export Full Project to TSV;
 	<figure class="large">
 		<div class="myvideo">
-		   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+		   <video  style="display:block; width:100%; height:auto;" controls>
 			   <source src="{{ site.baseurl }}\assets\videos\ExportProject2TSV.mp4" type="video/mp4" />
 		   </video>
 		</div>
@@ -144,7 +144,7 @@
 7. Full Pipeline on Dummy Dataset
 	<figure class="large">
 		<div class="myvideo">
-		   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+		   <video  style="display:block; width:100%; height:auto;" controls>
 			   <source src="{{ site.baseurl }}\assets\videos\dummyDatasetPipeline.mp4" type="video/mp4" />
 		   </video>
 		</div>
