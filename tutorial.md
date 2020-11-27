@@ -118,12 +118,23 @@
 
 5. Export Result Table
 	* Go to:
+		* Project > Export Results
+	<figure class="large">
+		<div class="myvideo">
+		   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+			   <source src="{{ site.baseurl }}\assets\videos\ExportResults.mp4" type="video/mp4" />
+		   </video>
+		</div>
+	</figure>
+	
+6. Export Project to TSV
+	* Go to:
 		* Project > Export Project to TSV; or
 		* Project > Export Full Project to TSV;
 	<figure class="large">
 		<div class="myvideo">
-		   <video  style="display:block; width:100%; height:auto;" controls loop="loop">
-			   <source src="{{ site.baseurl }}\assets\videos\ExportResults.mp4" type="video/mp4" />
+		   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+			   <source src="{{ site.baseurl }}\assets\videos\ExportProject2TSV.mp4" type="video/mp4" />
 		   </video>
 		</div>
 	</figure>
