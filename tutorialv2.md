@@ -51,22 +51,22 @@
 <br/><br/>
 # Video Tutorials
 
-7. Full Pipeline on Dummy Dataset
+7. Create new project
 	<figure class="large">
 		<div class="myvideo">
 		   <video  style="display:block; width:100%; height:auto;" controls loop="loop">
-			   <source src="{{ site.baseurl }}\assets\videos\dummyDatasetPipeline.mp4" type="video/mp4" />
+		   <source src="{{ site.baseurl }}\assets\videos\CreateProject.mp4" type="video/mp4" />
 		   </video>
 		</div>
 		<p align="justify"><figcaption>without autoplay</figcaption></p>	
 	</figure>
 	
 	
-7. Full Pipeline on Dummy Dataset
+7. Create new project
 	<figure class="large">
 		<div class="myvideo">
 		   <video  style="display:block; width:100%; height:auto;" autoplay controls >
-			   <source src="{{ site.baseurl }}\assets\videos\dummyDatasetPipeline.mp4" type="video/mp4" />
+		   <source src="{{ site.baseurl }}\assets\videos\CreateProject.mp4" type="video/mp4" />
 		   </video>
 		</div>
 		<p align="justify"><figcaption>without loop</figcaption></p>	
