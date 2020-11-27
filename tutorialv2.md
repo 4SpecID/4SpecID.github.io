@@ -12,7 +12,6 @@
 			<source src="{{ site.baseurl }}\assets\videos\CreateProject.mp4" type="video/mp4" />
 		   </video>
 		</div>
-		<p align="justify"><figcaption>without loop</figcaption></p>	
 	</figure>
 
 
