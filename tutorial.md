@@ -116,7 +116,7 @@
 	</figure>
 
 
-5. Export Result Table
+5. Export Results Table
 	* Go to:
 		* Project > Export Results
 	<figure class="large">
