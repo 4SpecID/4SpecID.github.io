@@ -127,6 +127,7 @@
 		</div>
 	</figure>
 	
+	
 6. Export Project to TSV
 	* Go to:
 		* Project > Export Project to TSV; or
@@ -135,6 +136,16 @@
 		<div class="myvideo">
 		   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
 			   <source src="{{ site.baseurl }}\assets\videos\ExportProject2TSV.mp4" type="video/mp4" />
+		   </video>
+		</div>
+	</figure>
+
+
+7. Full Pipeline on Dummy Dataset
+	<figure class="large">
+		<div class="myvideo">
+		   <video  style="display:block; width:100%; height:auto;" autoplay controls loop="loop">
+			   <source src="{{ site.baseurl }}\assets\videos\dummyDatasetPipeline.mp4" type="video/mp4" />
 		   </video>
 		</div>
 	</figure>
