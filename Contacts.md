@@ -59,10 +59,10 @@ For any questions please contact us by email to <a href="mailto:4specid@gmail.co
   </tr>
   <tr>
 	<td width="50%">		
-		<a href="mailto:econdesousa@gmail.com">Eduardo Conde-Sousa</a>
+		<a href="mailto:econdesousa@gmail.com">Eduardo Conde-Sousa (econdesousa@gmail.com)</a>
 	</td>
 	<td width="50%">
-		<a href="mailto:lmpneto137@gmail.com">Luís Neto</a> 
+		<a href="mailto:lmpneto137@gmail.com">Luís Neto (lmpneto137@gmail.com)</a> 
 	</td>
   </tr>
   
