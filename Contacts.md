@@ -6,6 +6,42 @@
 # Contacts
 
 ## Team
+<table style="width:100%">
+  <tr>
+    <th>Software Engineering</th>
+    <th>Mathematical Modeling</th>
+  </tr>
+  <tr>
+	<td width="50%">		
+		Luís Neto <sup>1</sup>
+	</td>
+	<td width="50%">
+		 Nádia Pinto <sup>2,3,4</sup>
+	</td>
+  </tr>
+  <tr>
+	<td width="50%">		
+		Alberto Proença <sup>1,5</sup>
+	</td>
+	<td width="50%">
+		 António Amorim <sup>2,3,6</sup>
+	</td>
+  </tr>
+  <tr>
+	<td width="50%">		
+		 
+	</td>
+	<td width="50%">
+		 Eduardo Conde-Sousa <sup>2,7</sup>
+	</td>
+  </tr>
+  
+</table>
+
+<br>
+<br>
+<br>
+
 
 <table class=MsoTable15Grid1Light border=0 cellspacing=0 cellpadding=0
  style='border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
