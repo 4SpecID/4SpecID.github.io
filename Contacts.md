@@ -6,7 +6,6 @@
 # Contacts
 
 ## Team
-
 <table class=MsoTable15Grid1Light border=0 cellspacing=0 cellpadding=0
  style='border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
  0in 5.4pt 0in 5.4pt;mso-border-insideh:none;mso-border-insidev:none'>
