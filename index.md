@@ -30,6 +30,7 @@ If you use **4SpecID** in your work please cite:
 
 <sup>†</sup> These authors contributed equally to the work.
 
+<br>
 
 [Home](https://4specid.github.io){: .btn}
 [Quick Start](https://4specid.github.io/tutorial){: .btn}
