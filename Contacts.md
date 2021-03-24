@@ -8,6 +8,58 @@
 ## Team
 Luís Neto<sup>1</sup>; Nádia Pinto<sup>2,3,4</sup>; Alberto Proença<sup>1,5</sup>; António Amorim<sup>2,3,6</sup>; Eduardo Conde-Sousa<sup>2,7</sup>
 
+<table border="1" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td width="312" valign="top">
+                <p>
+                    <strong>Software Engineering</strong>
+                </p>
+            </td>
+            <td width="312" valign="top">
+                <p>
+                    <strong>Mathematical Modeling</strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="312" valign="top">
+                <p>
+                    Luís Neto<sup>1</sup>
+                </p>
+            </td>
+            <td width="312" valign="top">
+                <p>
+                    Nádia Pinto<sup>2,3,4</sup>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="312" valign="top">
+                <p>
+                    Alberto Proença<sup>1,5</sup>
+                </p>
+            </td>
+            <td width="312" valign="top">
+                <p>
+                    António Amorim<sup>2,3,6</sup>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="312" valign="top">
+            </td>
+            <td width="312" valign="top">
+                <p>
+                    Eduardo Conde-Sousa<sup>2,7</sup>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+
 <p style="margin-left: 40px"><small>
 	<sup>1</sup> ALGORITMI, University of Minho, Campus de Gualtar, Rua da Universidade, 4710 - 057, Braga, Portugal
 </small></p>
