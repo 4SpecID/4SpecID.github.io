@@ -28,7 +28,7 @@ If you use **4SpecID** in your work please cite:
 
 * Neto, L. <sup>†</sup>, Pinto, N. <sup>†</sup>, Proença, A., Amorim, A., Conde-Sousa, E., 4SpecID: Reference DNA Libraries Auditing and Annotation System for Forensic Applications (2021) Genes, 12, 61., DOI: [10.3390/genes12010061](https://doi.org/10.3390/genes12010061){:target="_blank" rel="noopener"}
 
-† These authors contributed equally to the work.
+<sup>†</sup> These authors contributed equally to the work.
 
 
 [Home](https://4specid.github.io){: .btn}
