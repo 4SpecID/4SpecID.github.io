@@ -42,59 +42,6 @@
 <br>
 <br>
 
-
-<table class=MsoTable15Grid1Light border=0 cellspacing=0 cellpadding=0
- style='border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
- 0in 5.4pt 0in 5.4pt;mso-border-insideh:none;mso-border-insidev:none'>
- <tr style='mso-yfti-irow:-1;mso-yfti-firstrow:yes;mso-yfti-lastfirstrow:yes'>
-  <td width=312 valign=top style='width:233.75pt;border:none;border-bottom:
-  solid #92D050 1.0pt;mso-border-bottom-alt:solid #92D050 .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal;mso-yfti-cnfc:5'><b>Software Engineering<o:p></o:p></b></p>
-  </td>
-  <td width=312 valign=top style='width:233.75pt;border:none;border-bottom:
-  solid #92D050 1.0pt;mso-border-bottom-alt:solid #92D050 .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal;mso-yfti-cnfc:1'><b>Mathematical Modeling<o:p></o:p></b></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:0'>
-  <td width=312 valign=top style='width:233.75pt;border:none;mso-border-top-alt:
-  solid #92D050 .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal;mso-yfti-cnfc:4'><span class=SpellE><span style='mso-bidi-font-weight:
-  bold'>Luís</span></span><span style='mso-bidi-font-weight:bold'> Neto <sup>1</sup><o:p></o:p></span></p>
-  </td>
-  <td width=312 valign=top style='width:233.75pt;border:none;mso-border-top-alt:
-  solid #92D050 .5pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><span lang=PT style='mso-ansi-language:PT'>Nádia Pinto <sup>2,3,4</sup></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1'>
-  <td width=312 valign=top style='width:233.75pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal;mso-yfti-cnfc:4'><span lang=PT style='mso-ansi-language:PT;mso-bidi-font-weight:
-  bold'>Alberto Proença <sup>1,5</sup></span><span style='mso-bidi-font-weight:
-  bold'><o:p></o:p></span></p>
-  </td>
-  <td width=312 valign=top style='width:233.75pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><span lang=PT style='mso-ansi-language:PT'>António Amorim <sup>2,3,6</sup></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
-  <td width=312 valign=top style='width:233.75pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal;mso-yfti-cnfc:4'><span style='mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width=312 valign=top style='width:233.75pt;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><span lang=PT style='mso-ansi-language:PT'>Eduardo Conde-Sousa <sup>2,7</sup></span></p>
-  </td>
- </tr>
-</table>
-
 <br><br>
 
 
