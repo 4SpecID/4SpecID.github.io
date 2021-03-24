@@ -12,7 +12,6 @@
 | Alberto Proença<sup>1,5</sup>	| António Amorim<sup>2,3,6</sup>	|
 |								| Eduardo Conde-Sousa<sup>2,7</sup>	|
 
-Luís Neto<sup>1</sup>; Nádia Pinto<sup>2,3,4</sup>; Alberto Proença<sup>1,5</sup>; António Amorim<sup>2,3,6</sup>; Eduardo Conde-Sousa<sup>2,7</sup>
 
 <p style="margin-left: 40px"><small>
 	<sup>1</sup> ALGORITMI, University of Minho, Campus de Gualtar, Rua da Universidade, 4710 - 057, Braga, Portugal
