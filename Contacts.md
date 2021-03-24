@@ -6,8 +6,6 @@
 # Contacts
 
 ## Team
-Luís Neto<sup>1</sup>; Nádia Pinto<sup>2,3,4</sup>; Alberto Proença<sup>1,5</sup>; António Amorim<sup>2,3,6</sup>; Eduardo Conde-Sousa<sup>2,7</sup>
-
 <table border="1" cellspacing="0" cellpadding="0">
     <tbody>
         <tr>
