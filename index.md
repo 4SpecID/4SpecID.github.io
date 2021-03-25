@@ -24,7 +24,7 @@ It is oriented to ensure the golden standards for forensic applications.</p>
 [Quick Start 4SpecID](https://4specid.github.io/tutorial)<!---{: .btn}--->
 
 # Citing 4SpecID
-If you use **4SpecID** in your work please cite:
+If you use **4SpecID** in your work please cite: [https://doi.org/10.3390/genes12010061](https://doi.org/10.3390/genes12010061){:target="_blank" rel="noopener"}
 
 * Neto, L.<sup>†</sup>, Pinto, N.<sup>†</sup>, Proença, A., Amorim, A., Conde-Sousa, E., 4SpecID: Reference DNA Libraries Auditing and Annotation System for Forensic Applications (2021) Genes, 12, 61., DOI: [10.3390/genes12010061](https://doi.org/10.3390/genes12010061){:target="_blank" rel="noopener"}
 
