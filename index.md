@@ -31,8 +31,7 @@ If you use **4SpecID** in your work please cite: [https://doi.org/10.3390/genes1
 
 <sup>†</sup> These authors contributed equally to the work.
 -->
-
-
+<br>
 <br>
 
 [Home](https://4specid.github.io){: .btn}
