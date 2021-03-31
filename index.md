@@ -37,3 +37,13 @@ If you use **4SpecID** in your work please cite: [https://doi.org/10.3390/genes1
 [Quick Start](https://4specid.github.io/tutorial){: .btn}
 [Sample Images](https://4specid.github.io/images){: .btn}
 [Contacts](https://4specid.github.io/Contacts){: .btn}
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JK4T2X0DH3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JK4T2X0DH3');
+</script>
